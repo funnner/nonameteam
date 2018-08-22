@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+
+#dropdown-menu-2btn-4 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-4 .nav .link,
+#dropdown-menu-2btn-4 .dropdown-item {
+  font-size: 1.8em;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-2btn-4 .navbar,
+#dropdown-menu-2btn-4 .dropdown-menu {
+  background: #553982;
+}
+#dropdown-menu-2btn-4 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-4 .dropdown-menu a:hover,
+#dropdown-menu-2btn-4 .dropdown-menu a:focus {
+  background: #4c3374;
+}
+#dropdown-menu-2btn-4 .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-4 A {
+  font-family: 'Roboto', sans-serif;
+  font-size: 8px;
+}
+#testimonials1-7 .mbr-section__header I {
+  color: #ffffff;
+}
+#social-buttons2-8 .mbr-header__text I {
+  color: #ffffff;
+}
